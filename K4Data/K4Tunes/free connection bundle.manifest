@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2371475436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0194cb510978528e3984ca452d277370
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_16.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_30.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_01.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_03.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_18.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_11.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_23.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_04.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_21.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_15.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_28.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_29.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_06.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_12.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_10.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_05.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_26.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_17.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_24.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_08.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_25.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_22.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_20.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_27.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_09.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_13.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_07.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_02.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_19.wav
+- Assets/Resources/Audio/FREE CONNECTION/TRACK_14.wav
+Dependencies: []

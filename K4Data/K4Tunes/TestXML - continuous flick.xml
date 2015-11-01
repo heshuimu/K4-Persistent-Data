@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<K4TuneData>
+	<TuneInfo>
+                <ID>1001</ID>
+                <DifficultyName>Vacuum</DifficultyName>
+                <DifficultyLevel>77</DifficultyLevel>
+                <DifficultyLabelColorR>237</DifficultyLabelColorR>
+                <DifficultyLabelColorG>38</DifficultyLabelColorG>
+                <DifficultyLabelColorB>38</DifficultyLabelColorB>
+                <DifficultyLabelColorA>255</DifficultyLabelColorA>
+                <AudioSourceID>1001</AudioSourceID>
+                <!--
+                use this to override tune cover
+                <TuneCoverOverrideID> </TuneCoverOverrideID>
+                -->
+                <VisualSourceID>1001</VisualSourceID>
+	</TuneInfo>
+	
+	<KeysoundInfo>
+	
+	</KeysoundInfo>
+	
+	<BPMInfo>
+		<BPM>
+			<isFreeMeasurement>false</isFreeMeasurement>
+			<PositionMeasureCount>0</PositionMeasureCount>
+			<PositionMeasureOffsetDenom>0</PositionMeasureOffsetDenom>
+			<PositionMeasureOffsetNumer>1</PositionMeasureOffsetNumer>
+			<PositionMeasureOffsetFree>0</PositionMeasureOffsetFree>
+			<BPMValue>150</BPMValue>
+			<isStop>false</isStop>
+			<StopInterval>0</StopInterval>
+		</BPM>
+	</BPMInfo>
+	
+	<NoteInfo>
+        <Note>
+            <isFreeMeasurement>false</isFreeMeasurement>
+            <PositionMeasureCount>8</PositionMeasureCount>
+            <PositionMeasureOffsetDenom>0</PositionMeasureOffsetDenom>
+            <PositionMeasureOffsetNumer>4</PositionMeasureOffsetNumer>
+            <PositionMeasureOffsetFree>0</PositionMeasureOffsetFree>
+            <PositionVectorX>-400</PositionVectorX>
+            <PositionVectorY>-100</PositionVectorY>
+            <KeysoundIndex>-1</KeysoundIndex>
+            <isHold>false</isHold>
+            <isHoldFreeMeasure>false</isHoldFreeMeasure>
+            <HoldEndMeasureCount>8</HoldEndMeasureCount>
+            <HoldEndMeasureOffsetDenom>0</HoldEndMeasureOffsetDenom>
+            <HoldEndMeasureOffsetNumer>1</HoldEndMeasureOffsetNumer>
+            <HoldEndMeasureOffsetFree>0</HoldEndMeasureOffsetFree>
+            <isFlick>true</isFlick>
+            <FlickAngle>0</FlickAngle>
+        </Note>
+        <Note>
+            <isFreeMeasurement>false</isFreeMeasurement>
+            <PositionMeasureCount>8</PositionMeasureCount>
+            <PositionMeasureOffsetDenom>1</PositionMeasureOffsetDenom>
+            <PositionMeasureOffsetNumer>4</PositionMeasureOffsetNumer>
+            <PositionMeasureOffsetFree>0</PositionMeasureOffsetFree>
+            <PositionVectorX>-250</PositionVectorX>
+            <PositionVectorY>-100</PositionVectorY>
+            <KeysoundIndex>-1</KeysoundIndex>
+            <isHold>false</isHold>
+            <isHoldFreeMeasure>false</isHoldFreeMeasure>
+            <HoldEndMeasureCount>8</HoldEndMeasureCount>
+            <HoldEndMeasureOffsetDenom>0</HoldEndMeasureOffsetDenom>
+            <HoldEndMeasureOffsetNumer>1</HoldEndMeasureOffsetNumer>
+            <HoldEndMeasureOffsetFree>0</HoldEndMeasureOffsetFree>
+            <isFlick>true</isFlick>
+            <FlickAngle>0</FlickAngle>
+        </Note>
+        <Note>
+            <isFreeMeasurement>false</isFreeMeasurement>
+            <PositionMeasureCount>8</PositionMeasureCount>
+            <PositionMeasureOffsetDenom>2</PositionMeasureOffsetDenom>
+            <PositionMeasureOffsetNumer>4</PositionMeasureOffsetNumer>
+            <PositionMeasureOffsetFree>0</PositionMeasureOffsetFree>
+            <PositionVectorX>-100</PositionVectorX>
+            <PositionVectorY>-100</PositionVectorY>
+            <KeysoundIndex>-1</KeysoundIndex>
+            <isHold>false</isHold>
+            <isHoldFreeMeasure>false</isHoldFreeMeasure>
+            <HoldEndMeasureCount>8</HoldEndMeasureCount>
+            <HoldEndMeasureOffsetDenom>0</HoldEndMeasureOffsetDenom>
+            <HoldEndMeasureOffsetNumer>1</HoldEndMeasureOffsetNumer>
+            <HoldEndMeasureOffsetFree>0</HoldEndMeasureOffsetFree>
+            <isFlick>true</isFlick>
+            <FlickAngle>0</FlickAngle>
+        </Note>
+        <Note>
+            <isFreeMeasurement>false</isFreeMeasurement>
+            <PositionMeasureCount>8</PositionMeasureCount>
+            <PositionMeasureOffsetDenom>3</PositionMeasureOffsetDenom>
+            <PositionMeasureOffsetNumer>4</PositionMeasureOffsetNumer>
+            <PositionMeasureOffsetFree>0</PositionMeasureOffsetFree>
+            <PositionVectorX>50</PositionVectorX>
+            <PositionVectorY>-100</PositionVectorY>
+            <KeysoundIndex>-1</KeysoundIndex>
+            <isHold>false</isHold>
+            <isHoldFreeMeasure>false</isHoldFreeMeasure>
+            <HoldEndMeasureCount>8</HoldEndMeasureCount>
+            <HoldEndMeasureOffsetDenom>0</HoldEndMeasureOffsetDenom>
+            <HoldEndMeasureOffsetNumer>1</HoldEndMeasureOffsetNumer>
+            <HoldEndMeasureOffsetFree>0</HoldEndMeasureOffsetFree>
+            <isFlick>true</isFlick>
+            <FlickAngle>0</FlickAngle>
+        </Note>
+    
+	</NoteInfo>
+</K4TuneData>
