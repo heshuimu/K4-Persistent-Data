@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <K4TuneData>
 	<TuneInfo>
-                <ID>1001</ID>
+                <TuneID>1003</TuneID>
                 <DifficultyName>Vacuum</DifficultyName>
                 <DifficultyLevel>77</DifficultyLevel>
                 <DifficultyLabelColorR>237</DifficultyLabelColorR>
@@ -14,6 +14,7 @@
                 <TuneCoverOverrideID> </TuneCoverOverrideID>
                 -->
                 <VisualSourceID>1001</VisualSourceID>
+                <PreviewAudioSourceID>9001</PreviewAudioSourceID>
 	</TuneInfo>
 	
 	<KeysoundInfo>
