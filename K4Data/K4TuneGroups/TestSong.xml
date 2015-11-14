@@ -4,7 +4,7 @@
 	<Title>DISCONNECTED 3</Title>
 	<Artist>DJ BinDue</Artist>
 	<TuneGroupCoverID>1002</TuneGroupCoverID>
-	<CopyrightInfoOverride>©Binbin Records</CopyrightInfoOverride>
+	<CopyrightInfo>©Binbin Records</CopyrightInfo>
 	<Description>
 		Just Dance!&#xD;
 		Just Dance!&#xD;
@@ -19,7 +19,8 @@
 	</Description>
 	<TuneList>
 		<TuneID>1001</TuneID>
-		<TuneID>1003</TuneID>
+		<TuneID>1007</TuneID>
 		<TuneID>1004</TuneID>
+		<TuneID>1008</TuneID>
 	</TuneList>
 </K4TuneGroupInfo>

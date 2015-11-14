@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <K4TuneData>
 	<TuneInfo>
+                <TuneName>DUE TOMORROW C</TuneName>
+                <Artist>DJ BinDue</Artist>
                 <TuneID>1004</TuneID>
+                <BPMDisplay>12 - 450</BPMDisplay>
                 <DifficultyName>huangpu</DifficultyName>
                 <DifficultyLevel>43</DifficultyLevel>
                 <DifficultyLabelColorR>244</DifficultyLabelColorR>
@@ -9,10 +12,7 @@
                 <DifficultyLabelColorB>38</DifficultyLabelColorB>
                 <DifficultyLabelColorA>255</DifficultyLabelColorA>
                 <AudioSourceID>1001</AudioSourceID>
-                <!--
-                use this to override tune cover
-                <TuneCoverOverrideID> </TuneCoverOverrideID>
-                -->
+                <TuneCoverID>1001</TuneCoverID>
                 <VisualSourceID>1001</VisualSourceID>
                 <PreviewAudioSourceID>9001</PreviewAudioSourceID>
 	</TuneInfo>
